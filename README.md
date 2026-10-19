@@ -19,3 +19,4 @@ chmod +x clear_snap.sh clear_pip.sh
 
 # Run the snap cleanup (requires elevated privileges)
 sudo ./clear_snap.sh
+
